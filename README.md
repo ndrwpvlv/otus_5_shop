@@ -1,4 +1,4 @@
-# code_syntax_analyser
+# otus_5_shop
 
 **otus_5_shop** - fourth homework of OTUS Python course - Training to make online store with Flask wsgi framework and etc.
 
