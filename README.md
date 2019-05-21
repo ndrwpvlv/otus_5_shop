@@ -1,6 +1,6 @@
 # otus_5_shop
 
-**otus_5_shop** - fourth homework of OTUS Python course - Training to make online store with Flask wsgi framework and etc.
+**otus_5_shop** is fourth homework of OTUS Python course. Create online store with Flask wsgi framework.
 
 Homework-shop based on Flask, Jinja2, Werkzeug and SQLAlchemy.
 
